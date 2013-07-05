@@ -1,0 +1,4 @@
+mapreduce
+=========
+
+Simple MapReduce implementation
